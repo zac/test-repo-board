@@ -1,2 +1,2 @@
 # test-repo-board
-A test private repo for validating Repo Board
+A public repository with synthetic tasks for demonstrating Repo Board.
